@@ -1,6 +1,6 @@
 {
   "vaultName": "Youtube",
-  "lastExport": 1726077747660,
+  "lastExport": 1726500684445,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -89,164 +89,164 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1726077747660,
-      "sourceSize": 2664,
+      "modifiedTime": 1726500684445,
+      "sourceSize": 2684,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Overview.md": {
-      "modifiedTime": 1726077747660,
-      "sourceSize": 278,
+      "modifiedTime": 1726500684445,
+      "sourceSize": 370,
       "exportedPath": "overview.html",
       "dependencies": [
         "viability-triangle-zoomed-in.png",
@@ -254,145 +254,145 @@
       ]
     },
     "viability-triangle-zoomed-in.png": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 83228,
       "exportedPath": "viability-triangle-zoomed-in.png",
       "dependencies": []
     },
     "theory-pragmatic-zoomed-in.png": {
-      "modifiedTime": 1726077747660,
-      "sourceSize": 585108,
+      "modifiedTime": 1726500684445,
+      "sourceSize": 667920,
       "exportedPath": "theory-pragmatic-zoomed-in.png",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "A Few Observations on the Marvelous Resilience of Bone & Resilience Engineering - Dr. Richard Cook at the Re-Deploy Conference in 2019.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 1675,
       "exportedPath": "a-few-observations-on-the-marvelous-resilience-of-bone-&-resilience-engineering-dr.-richard-cook-at-the-re-deploy-conference-in-2019.html",
       "dependencies": []
     },
     "Adobe Summit Talk Video.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 486,
       "exportedPath": "adobe-summit-talk-video.html",
       "dependencies": []
     },
     "Beyond Surge Capacity (possible TBR) Video.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 101,
       "exportedPath": "beyond-surge-capacity-(possible-tbr)-video.html",
       "dependencies": []
     },
     "Case Studies.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 154,
       "exportedPath": "case-studies.html",
       "dependencies": []
     },
     "Fitness as Matching.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 71,
       "exportedPath": "fitness-as-matching.html",
       "dependencies": []
     },
     "Fitness Landscape.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 48,
       "exportedPath": "fitness-landscape.html",
       "dependencies": []
     },
     "In Class Sys Eng Pt 1.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 437,
       "exportedPath": "in-class-sys-eng-pt-1.html",
       "dependencies": []
     },
     "Saturation.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 153,
       "exportedPath": "saturation.html",
       "dependencies": []
     },
     "TBR - Viability Crushing.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 82,
       "exportedPath": "tbr-viability-crushing.html",
       "dependencies": []
     },
     "Theory-Pragmatic Zoomed in.png": {
-      "modifiedTime": 1726077747660,
-      "sourceSize": 585108,
+      "modifiedTime": 1726500684445,
+      "sourceSize": 667920,
       "exportedPath": "theory-pragmatic-zoomed-in.png",
       "dependencies": []
     },
     "Viability Triangle Zoomed in.png": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 83228,
       "exportedPath": "viability-triangle-zoomed-in.png",
       "dependencies": []
     },
     "Video 1 Introduction pt 1 - It's all about viability.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 842,
       "exportedPath": "video-1-introduction-pt-1-it's-all-about-viability.html",
       "dependencies": []
     },
     "Video 2 Tangles, Tradeoffs, and Robust yet Fragile.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 872,
       "exportedPath": "video-2-tangles,-tradeoffs,-and-robust-yet-fragile.html",
       "dependencies": []
     },
     "Video 2.5 RYF +.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 684,
       "exportedPath": "video-2.5-ryf-+.html",
       "dependencies": []
     },
     "Video 3 Synchronization, an antidote to system breakdown.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 674,
       "exportedPath": "video-3-synchronization,-an-antidote-to-system-breakdown.html",
       "dependencies": []
     },
     "Video 4 The Science and Pragmatics of RE through the lens of Complexification.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 720,
       "exportedPath": "video-4-the-science-and-pragmatics-of-re-through-the-lens-of-complexification.html",
       "dependencies": []
     },
     "Video 5 A Resilience Engineering look at Tradeoffs.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 856,
       "exportedPath": "video-5-a-resilience-engineering-look-at-tradeoffs.html",
       "dependencies": []
     },
     "Video 6 Lines of Inquiry.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 855,
       "exportedPath": "video-6-lines-of-inquiry.html",
       "dependencies": []
     },
     "Video 7 The Laws of Fluency and Stretched Systems.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 82,
       "exportedPath": "video-7-the-laws-of-fluency-and-stretched-systems.html",
       "dependencies": []
     },
     "Video 8  Tradeoff Between Seeking Opportunity and Managing Challenges.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 703,
       "exportedPath": "video-8-tradeoff-between-seeking-opportunity-and-managing-challenges.html",
       "dependencies": []
     },
     "Video 9 High-Frequency Trading, a Case Study in Growth and Complexification.md": {
-      "modifiedTime": 1726077747660,
+      "modifiedTime": 1726500684445,
       "sourceSize": 691,
       "exportedPath": "video-9-high-frequency-trading,-a-case-study-in-growth-and-complexification.html",
       "dependencies": []
